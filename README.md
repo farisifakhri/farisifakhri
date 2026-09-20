@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=21&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI+for+Futsal+Video+Analysis;Developing+Useful+Web-Based+Systems;Combining+Technology%2C+Research%2C+and+Social+Impact" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=21&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI+for+Futsal+Video+Analysis;Developing+Useful+Web-Based+Systems;Combining+Technology%2C+Research%2C+and+Social+Impact" alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -12,97 +12,62 @@
   <img src="https://komarev.com/ghpvc/?username=Farisifakhri&style=for-the-badge&color=3B82F6" alt="Profile views" />
 </p>
 
-About Me
+---
 
-I am an Informatics Engineering student at UIN Syarif Hidayatullah Jakarta with interests in computer vision, full-stack web development, and information systems. My work focuses on turning real operational problems into practical digital products—from futsal video analysis and institutional workflows to community and Islamic-service platforms.
+## 👋 About Me
 
-Beyond technology, I am a licensed Level 2 futsal referee in Banten. That experience shapes how I approach software engineering: observe carefully, make evidence-based decisions, and stay reliable under pressure.
+I am an Informatics Engineering student at **UIN Syarif Hidayatullah Jakarta** with interests in computer vision, full-stack web development, and information systems. My work focuses on turning real operational problems into practical digital products, from futsal video analysis and institutional workflows to community and Islamic-service platforms.
 
-🔭 Currently developing AI-assisted futsal analysis and workflow-based information systems
+Beyond technology, I am a **licensed Level 2 futsal referee** in Banten. That experience shapes how I approach software engineering: observe carefully, make evidence-based decisions, and stay reliable under pressure.
 
-🌱 Exploring object detection, tracking, homography, RAG, and knowledge graphs
+- 🔭 Currently building AI-assisted futsal analysis and workflow-based information systems
+- 🌱 Exploring object detection, tracking, homography, RAG, and knowledge graphs
+- 🕌 Contributing to digital dakwah and community-based technology projects
 
-🕌 Contributing to digital dakwah and community-based technology projects
+---
 
-⚽ Combining computer vision research with practical experience in futsal officiating
+## 📄 Research Highlight
 
-Research Highlight
+**Object Detection for Futsal Video Analysis with YOLOv8m**
+CITSM 2026, Universitas Negeri Surabaya · *Accepted for oral presentation*
 
-CITSM 2026 — Universitas Negeri Surabaya
-Object Detection for Futsal Video Analysis with YOLOv8m
-Accepted for oral presentation.
+---
 
-Featured Projects
+## 🚀 Featured Projects
 
-Project
+| Project | What It Does | Tech | Link |
+|---|---|---|---|
+| **FutsalLens AI** | Detects and tracks futsal players and officials, with court mapping, heatmaps, and tactical-analysis foundations | Python, YOLO, OpenCV, PyTorch | [Repository](https://github.com/Farisifakhri/futsal-cv) |
+| **LPMQ Tashih Hub** | Workflow system for Qur'an manuscript registration, verification, assignment, approval, and documentation | React, Node.js, Prisma, MySQL | [Repository](ISI_URL_LPMQ) |
+| **LDK Syahid Digital Letter System** | Automatic numbering, approval workflows, PDF generation, and public QR verification | Laravel, Blade, MySQL, DomPDF | [Website](ISI_URL_LDK_SYAHID) |
+| **Zakat Calculator** | Calculates zakat using current gold-price and exchange-rate data | Laravel, JavaScript, External APIs | [Open App](ISI_URL_ZAKAT) |
+| **Futsal Timekeeper PRO** | Match timer and scoreboard built around practical futsal-officiating needs | JavaScript, Web Audio API | [Repository](ISI_URL_TIMEKEEPER) |
+| **Al-Ma'mur Super App** | Supports youth-mosque administration, programs, and community activities | Full-Stack Web | [Repository](ISI_URL_ALMAMUR) |
 
-What It Does
+---
 
-Technology
-
-Link
-
-FutsalLens AI
-
-Detects and tracks futsal players and officials, with court mapping, heatmaps, and tactical-analysis foundations
-
-Python, YOLO, OpenCV, PyTorch
-
-Repository
-
-LPMQ Tashih Hub
-
-Workflow-based information system for Qur'an manuscript registration, verification, assignment, approval, and documentation
-
-React, Node.js, Prisma, MySQL
-
-Repository
-
-LDK Syahid Digital Letter System
-
-Handles automatic numbering, approval workflows, PDF generation, and public QR verification
-
-Laravel, Blade, MySQL, DomPDF
-
-Website
-
-Zakat Calculator
-
-Calculates zakat using current gold-price and exchange-rate data
-
-Laravel, JavaScript, External APIs
-
-Open App
-
-Futsal Timekeeper PRO
-
-Match timer and scoreboard designed around practical futsal-officiating needs
-
-JavaScript, Web Audio API
-
-Repository
-
-Al-Ma'mur Super App
-
-Supports youth-mosque administration, programs, and community activities
-
-Full-Stack Web
-
-Repository
-
-Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,react,tailwind,python,pytorch,opencv,mysql,postgresql,supabase,git,github" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv&perline=3" alt="AI and Computer Vision" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,prisma&perline=4" alt="Backend" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind&perline=3" alt="Frontend" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase&perline=3" alt="Database" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github&perline=2" alt="Tools" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge" alt="YOLO" />
   <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
 
-GitHub Activity
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Farisifakhri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
@@ -114,7 +79,7 @@ GitHub Activity
 </p>
 
 <p align="center">
-  <em>Building technology with purpose—one project, one match, and one commit at a time.</em>
+  <em>Building technology with purpose: one project, one match, and one commit at a time.</em>
 </p>
 
 <p align="center">
